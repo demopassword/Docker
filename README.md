@@ -6,8 +6,9 @@ EKS
 #### Content
 - nginx
 - python
-- Binary
+- Compile
 - Golang
+- WordPress
 
 #### Support Architecture
 - x86_64
